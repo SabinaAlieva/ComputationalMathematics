@@ -1,0 +1,6 @@
+D:\Visual studio\Projects\metSeidel\bin\Debug\metSeidel.exe.config
+D:\Visual studio\Projects\metSeidel\bin\Debug\metSeidel.exe
+D:\Visual studio\Projects\metSeidel\bin\Debug\metSeidel.pdb
+D:\Visual studio\Projects\metSeidel\obj\Debug\metSeidel.csprojResolveAssemblyReference.cache
+D:\Visual studio\Projects\metSeidel\obj\Debug\metSeidel.exe
+D:\Visual studio\Projects\metSeidel\obj\Debug\metSeidel.pdb

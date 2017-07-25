@@ -1,0 +1,6 @@
+D:\Visual studio\Projects\QR\bin\Debug\QR.exe.config
+D:\Visual studio\Projects\QR\obj\Debug\QR.csprojResolveAssemblyReference.cache
+D:\Visual studio\Projects\QR\bin\Debug\QR.exe
+D:\Visual studio\Projects\QR\bin\Debug\QR.pdb
+D:\Visual studio\Projects\QR\obj\Debug\QR.exe
+D:\Visual studio\Projects\QR\obj\Debug\QR.pdb

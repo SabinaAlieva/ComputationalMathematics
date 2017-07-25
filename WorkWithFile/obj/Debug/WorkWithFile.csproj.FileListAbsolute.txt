@@ -1,0 +1,5 @@
+D:\Visual studio\Projects\FirstNeuro\WorkWithFile\obj\Debug\WorkWithFile.csprojResolveAssemblyReference.cache
+D:\Visual studio\Projects\FirstNeuro\WorkWithFile\bin\Debug\WorkWithFile.dll
+D:\Visual studio\Projects\FirstNeuro\WorkWithFile\bin\Debug\WorkWithFile.pdb
+D:\Visual studio\Projects\FirstNeuro\WorkWithFile\obj\Debug\WorkWithFile.dll
+D:\Visual studio\Projects\FirstNeuro\WorkWithFile\obj\Debug\WorkWithFile.pdb

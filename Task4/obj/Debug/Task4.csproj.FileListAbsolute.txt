@@ -1,0 +1,8 @@
+D:\Visual studio\Projects\Task4\bin\Debug\Task4.exe.config
+D:\Visual studio\Projects\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
+D:\Visual studio\Projects\Task4\bin\Debug\Task4.exe
+D:\Visual studio\Projects\Task4\bin\Debug\Task4.pdb
+D:\Visual studio\Projects\Task4\bin\Debug\MathMethods.dll
+D:\Visual studio\Projects\Task4\bin\Debug\MathMethods.pdb
+D:\Visual studio\Projects\Task4\obj\Debug\Task4.exe
+D:\Visual studio\Projects\Task4\obj\Debug\Task4.pdb

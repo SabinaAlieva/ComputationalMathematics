@@ -1,0 +1,8 @@
+D:\Visual studio\Projects\metJacobi\bin\Debug\metJacobi.exe.config
+D:\Visual studio\Projects\metJacobi\bin\Debug\metJacobi.exe
+D:\Visual studio\Projects\metJacobi\bin\Debug\metJacobi.pdb
+D:\Visual studio\Projects\metJacobi\obj\Debug\metJacobi.csprojResolveAssemblyReference.cache
+D:\Visual studio\Projects\metJacobi\obj\Debug\metJacobi.exe
+D:\Visual studio\Projects\metJacobi\obj\Debug\metJacobi.pdb
+D:\Visual studio\Projects\metJacobi\bin\Debug\WorkWithFile.dll
+D:\Visual studio\Projects\metJacobi\bin\Debug\WorkWithFile.pdb

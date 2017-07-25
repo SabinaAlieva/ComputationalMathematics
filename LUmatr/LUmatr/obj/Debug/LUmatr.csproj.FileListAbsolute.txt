@@ -1,0 +1,6 @@
+D:\Visual studio\Projects\LUmatr\LUmatr\bin\Debug\LUmatr.exe.config
+D:\Visual studio\Projects\LUmatr\LUmatr\bin\Debug\LUmatr.exe
+D:\Visual studio\Projects\LUmatr\LUmatr\bin\Debug\LUmatr.pdb
+D:\Visual studio\Projects\LUmatr\LUmatr\obj\Debug\LUmatr.csprojResolveAssemblyReference.cache
+D:\Visual studio\Projects\LUmatr\LUmatr\obj\Debug\LUmatr.exe
+D:\Visual studio\Projects\LUmatr\LUmatr\obj\Debug\LUmatr.pdb

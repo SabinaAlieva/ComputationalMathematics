@@ -1,0 +1,5 @@
+D:\Visual studio\Projects\MathMethods\obj\Debug\MathMethods.csprojResolveAssemblyReference.cache
+D:\Visual studio\Projects\MathMethods\bin\Debug\MathMethods.dll
+D:\Visual studio\Projects\MathMethods\bin\Debug\MathMethods.pdb
+D:\Visual studio\Projects\MathMethods\obj\Debug\MathMethods.dll
+D:\Visual studio\Projects\MathMethods\obj\Debug\MathMethods.pdb

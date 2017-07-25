@@ -1,0 +1,8 @@
+D:\Visual studio\Projects\MetNewton\bin\Debug\MetNewton.exe.config
+D:\Visual studio\Projects\MetNewton\obj\Debug\MetNewton.csprojResolveAssemblyReference.cache
+D:\Visual studio\Projects\MetNewton\bin\Debug\MetNewton.exe
+D:\Visual studio\Projects\MetNewton\bin\Debug\MetNewton.pdb
+D:\Visual studio\Projects\MetNewton\bin\Debug\MathMethods.dll
+D:\Visual studio\Projects\MetNewton\bin\Debug\MathMethods.pdb
+D:\Visual studio\Projects\MetNewton\obj\Debug\MetNewton.exe
+D:\Visual studio\Projects\MetNewton\obj\Debug\MetNewton.pdb

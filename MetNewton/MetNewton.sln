@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetNewton", "MetNewton.csproj", "{A32563A0-30B5-4629-8215-003080AC19C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathMethods", "..\MathMethods\MathMethods.csproj", "{A01BEF25-DAE2-4DBF-A15A-BAE0F9E29A46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GaussMethod", "C:\Users\ДНС\Documents\Visual Studio 2013\Projects\ConsoleApplication13\ConsoleApplication13\GaussMethod.csproj", "{EC23816F-C2CB-4A21-A2EB-FE61DB5D02FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metJacobi", "..\metJacobi\metJacobi.csproj", "{AF8662DF-6C79-41B5-AC27-ABFBB5CEE16F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A32563A0-30B5-4629-8215-003080AC19C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A32563A0-30B5-4629-8215-003080AC19C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A32563A0-30B5-4629-8215-003080AC19C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A32563A0-30B5-4629-8215-003080AC19C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A01BEF25-DAE2-4DBF-A15A-BAE0F9E29A46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01BEF25-DAE2-4DBF-A15A-BAE0F9E29A46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01BEF25-DAE2-4DBF-A15A-BAE0F9E29A46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01BEF25-DAE2-4DBF-A15A-BAE0F9E29A46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC23816F-C2CB-4A21-A2EB-FE61DB5D02FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC23816F-C2CB-4A21-A2EB-FE61DB5D02FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC23816F-C2CB-4A21-A2EB-FE61DB5D02FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC23816F-C2CB-4A21-A2EB-FE61DB5D02FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF8662DF-6C79-41B5-AC27-ABFBB5CEE16F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF8662DF-6C79-41B5-AC27-ABFBB5CEE16F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF8662DF-6C79-41B5-AC27-ABFBB5CEE16F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF8662DF-6C79-41B5-AC27-ABFBB5CEE16F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
